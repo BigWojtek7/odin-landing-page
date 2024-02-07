@@ -73,6 +73,11 @@ ul {
 
 /* content boxes */
 
+.content-boxes {
+  margin-bottom: 80px;
+  text-align: center;
+}
+
 .info-text {
   font-size: 36px;
   font-weight: 900;
@@ -96,7 +101,20 @@ ul {
   border-radius: 25px;
 }
 
+/* Quote section */
+.content-quote {
+  background-color: #e5e7eb;
+  padding: 100px 320px;
+}
 
-/* .block {
-  flex: auto;
-} */
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  font-weight: 100;
+}
+.sign {
+  font-weight: 900;
+  text-align: right;
+  padding-right: 30px;
+}

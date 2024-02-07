@@ -72,3 +72,31 @@ ul {
 }
 
 /* content boxes */
+
+.info-text {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+  text-align: center;
+  margin: 40px 0;
+}
+
+.boxes {
+  display: flex;
+  width: 800px;
+  margin: 0 auto;
+  gap: 50px;
+}
+
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 5px solid #3882f6;
+  border-radius: 25px;
+}
+
+
+/* .block {
+  flex: auto;
+} */
